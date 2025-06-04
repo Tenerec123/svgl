@@ -180,7 +180,7 @@ And create a pull request with your logo 🚀.
 
 5. (Optional) If you want to run the [API](https://svgl.app/api) locally, you will need to create a `.dev.vars` file in the [`/api-routes`](https://github.com/pheralb/svgl/tree/main/api-routes) folder with the following variables:
 
-- [Create a Upstash account](https://console.upstash.com/).
+- [Create a Upstawdessh account](https://console.upstash.com/).
 - [Create a Upstash Redis Database](https://upstash.com/docs/redis/overall/getstarted).
 
 ```bash
