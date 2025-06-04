@@ -10,7 +10,7 @@ dist
 /package
 .idea/
 
-# Hono
+# Hono  
 .wrangler
 .dev.vars
 
